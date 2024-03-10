@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django #
 *.log
 *.pot
@@ -128,3 +129,6 @@ gunicorn-error-log
 db.sqlite3
 db copy.sqlite3
 static/
+=======
+venv
+>>>>>>> 418dcf660fa6e1ee86c1cd0ba4ddc5973fcc269e
